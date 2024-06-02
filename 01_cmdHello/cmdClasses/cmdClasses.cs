@@ -19,7 +19,7 @@ namespace cmdClasses
             try
             {
                 var acDocMgr = Autodesk.AutoCAD.ApplicationServices.Core.Application.DocumentManager;
-                acDocMgr.MdiActiveDocument.Editor.WriteMessage("Hello .net C# - tty for ac2025");
+                acDocMgr.MdiActiveDocument.Editor.WriteMessage("Hello .net C# - tty for ac2025-1");
             }
             catch (System.Exception ex)
             {

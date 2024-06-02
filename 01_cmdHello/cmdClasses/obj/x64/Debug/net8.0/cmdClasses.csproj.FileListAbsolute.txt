@@ -1,0 +1,13 @@
+D:\061_AutoCad-Prog\ty_AutoCad\01_cmdHello\cmdClasses\bin\x64\Debug\net8.0\cmdClasses.deps.json
+D:\061_AutoCad-Prog\ty_AutoCad\01_cmdHello\cmdClasses\bin\x64\Debug\net8.0\cmdClasses.dll
+D:\061_AutoCad-Prog\ty_AutoCad\01_cmdHello\cmdClasses\bin\x64\Debug\net8.0\cmdClasses.pdb
+D:\061_AutoCad-Prog\ty_AutoCad\01_cmdHello\cmdClasses\obj\x64\Debug\net8.0\cmdClasses.csproj.AssemblyReference.cache
+D:\061_AutoCad-Prog\ty_AutoCad\01_cmdHello\cmdClasses\obj\x64\Debug\net8.0\cmdClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\061_AutoCad-Prog\ty_AutoCad\01_cmdHello\cmdClasses\obj\x64\Debug\net8.0\cmdClasses.AssemblyInfoInputs.cache
+D:\061_AutoCad-Prog\ty_AutoCad\01_cmdHello\cmdClasses\obj\x64\Debug\net8.0\cmdClasses.AssemblyInfo.cs
+D:\061_AutoCad-Prog\ty_AutoCad\01_cmdHello\cmdClasses\obj\x64\Debug\net8.0\cmdClasses.csproj.CoreCompileInputs.cache
+D:\061_AutoCad-Prog\ty_AutoCad\01_cmdHello\cmdClasses\obj\x64\Debug\net8.0\cmdClasses.sourcelink.json
+D:\061_AutoCad-Prog\ty_AutoCad\01_cmdHello\cmdClasses\obj\x64\Debug\net8.0\cmdClasses.dll
+D:\061_AutoCad-Prog\ty_AutoCad\01_cmdHello\cmdClasses\obj\x64\Debug\net8.0\refint\cmdClasses.dll
+D:\061_AutoCad-Prog\ty_AutoCad\01_cmdHello\cmdClasses\obj\x64\Debug\net8.0\cmdClasses.pdb
+D:\061_AutoCad-Prog\ty_AutoCad\01_cmdHello\cmdClasses\obj\x64\Debug\net8.0\ref\cmdClasses.dll
