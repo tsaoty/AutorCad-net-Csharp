@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\061_AutoCad-Prog\\ty_AutoCad\\90_ClassDebug\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39FEB09C-0DB3-4F9B-B5C2-F6F747BCF3E6}|ClassDebug\\StringLibrary.csproj|d:\\061_autocad-prog\\ty_autocad\\90_classdebug\\classdebug\\stringlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39FEB09C-0DB3-4F9B-B5C2-F6F747BCF3E6}|ClassDebug\\StringLibrary.csproj|solutionrelative:classdebug\\stringlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D92216-89DA-4A96-BA4F-EC909ADB2888}|\u5C55\u793A\u5DE5\u5177\\\u5C55\u793A\u5DE5\u5177.csproj|d:\\061_autocad-prog\\ty_autocad\\90_classdebug\\\u5C55\u793A\u5DE5\u5177\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D92216-89DA-4A96-BA4F-EC909ADB2888}|\u5C55\u793A\u5DE5\u5177\\\u5C55\u793A\u5DE5\u5177.csproj|solutionrelative:\u5C55\u793A\u5DE5\u5177\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\061_AutoCad-Prog\\ty_AutoCad\\90_ClassDebug\\\u5C55\u793A\u5DE5\u5177\\Program.cs",
+              "RelativeDocumentMoniker": "\u5C55\u793A\u5DE5\u5177\\Program.cs",
+              "ToolTip": "D:\\061_AutoCad-Prog\\ty_AutoCad\\90_ClassDebug\\\u5C55\u793A\u5DE5\u5177\\Program.cs",
+              "RelativeToolTip": "\u5C55\u793A\u5DE5\u5177\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T07:03:41.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringLibrary.cs",
+              "DocumentMoniker": "D:\\061_AutoCad-Prog\\ty_AutoCad\\90_ClassDebug\\ClassDebug\\StringLibrary.cs",
+              "RelativeDocumentMoniker": "ClassDebug\\StringLibrary.cs",
+              "ToolTip": "D:\\061_AutoCad-Prog\\ty_AutoCad\\90_ClassDebug\\ClassDebug\\StringLibrary.cs",
+              "RelativeToolTip": "ClassDebug\\StringLibrary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T06:44:32.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

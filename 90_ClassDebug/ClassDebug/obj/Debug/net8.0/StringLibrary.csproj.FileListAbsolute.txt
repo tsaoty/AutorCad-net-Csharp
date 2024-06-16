@@ -1,0 +1,12 @@
+D:\061_AutoCad-Prog\ty_AutoCad\90_ClassDebug\ClassDebug\bin\Debug\net8.0\StringLibrary.deps.json
+D:\061_AutoCad-Prog\ty_AutoCad\90_ClassDebug\ClassDebug\bin\Debug\net8.0\StringLibrary.dll
+D:\061_AutoCad-Prog\ty_AutoCad\90_ClassDebug\ClassDebug\bin\Debug\net8.0\StringLibrary.pdb
+D:\061_AutoCad-Prog\ty_AutoCad\90_ClassDebug\ClassDebug\obj\Debug\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\061_AutoCad-Prog\ty_AutoCad\90_ClassDebug\ClassDebug\obj\Debug\net8.0\StringLibrary.AssemblyInfoInputs.cache
+D:\061_AutoCad-Prog\ty_AutoCad\90_ClassDebug\ClassDebug\obj\Debug\net8.0\StringLibrary.AssemblyInfo.cs
+D:\061_AutoCad-Prog\ty_AutoCad\90_ClassDebug\ClassDebug\obj\Debug\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\061_AutoCad-Prog\ty_AutoCad\90_ClassDebug\ClassDebug\obj\Debug\net8.0\StringLibrary.sourcelink.json
+D:\061_AutoCad-Prog\ty_AutoCad\90_ClassDebug\ClassDebug\obj\Debug\net8.0\StringLibrary.dll
+D:\061_AutoCad-Prog\ty_AutoCad\90_ClassDebug\ClassDebug\obj\Debug\net8.0\refint\StringLibrary.dll
+D:\061_AutoCad-Prog\ty_AutoCad\90_ClassDebug\ClassDebug\obj\Debug\net8.0\StringLibrary.pdb
+D:\061_AutoCad-Prog\ty_AutoCad\90_ClassDebug\ClassDebug\obj\Debug\net8.0\ref\StringLibrary.dll
