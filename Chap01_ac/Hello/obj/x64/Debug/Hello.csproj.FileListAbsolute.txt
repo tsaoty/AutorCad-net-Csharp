@@ -1,0 +1,2 @@
+D:\061_AutoCad-Prog\ty_AutoCad\Chap01_ac\Hello\obj\x64\Debug\Hello.csproj.AssemblyReference.cache
+D:\061_AutoCad-Prog\ty_AutoCad\Chap01_ac\Hello\obj\x64\Debug\Hello.csproj.CoreCompileInputs.cache

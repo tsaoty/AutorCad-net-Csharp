@@ -1,0 +1,13 @@
+D:\061_AutoCad-Prog\ty_AutoCad\Chap01_net8\Hello_tty\bin\x64\Debug\net8.0\Hello_tty.deps.json
+D:\061_AutoCad-Prog\ty_AutoCad\Chap01_net8\Hello_tty\bin\x64\Debug\net8.0\Hello_tty.dll
+D:\061_AutoCad-Prog\ty_AutoCad\Chap01_net8\Hello_tty\bin\x64\Debug\net8.0\Hello_tty.pdb
+D:\061_AutoCad-Prog\ty_AutoCad\Chap01_net8\Hello_tty\obj\x64\Debug\net8.0\Hello_tty.csproj.AssemblyReference.cache
+D:\061_AutoCad-Prog\ty_AutoCad\Chap01_net8\Hello_tty\obj\x64\Debug\net8.0\Hello_tty.GeneratedMSBuildEditorConfig.editorconfig
+D:\061_AutoCad-Prog\ty_AutoCad\Chap01_net8\Hello_tty\obj\x64\Debug\net8.0\Hello_tty.AssemblyInfoInputs.cache
+D:\061_AutoCad-Prog\ty_AutoCad\Chap01_net8\Hello_tty\obj\x64\Debug\net8.0\Hello_tty.AssemblyInfo.cs
+D:\061_AutoCad-Prog\ty_AutoCad\Chap01_net8\Hello_tty\obj\x64\Debug\net8.0\Hello_tty.csproj.CoreCompileInputs.cache
+D:\061_AutoCad-Prog\ty_AutoCad\Chap01_net8\Hello_tty\obj\x64\Debug\net8.0\Hello_tty.sourcelink.json
+D:\061_AutoCad-Prog\ty_AutoCad\Chap01_net8\Hello_tty\obj\x64\Debug\net8.0\Hello_tty.dll
+D:\061_AutoCad-Prog\ty_AutoCad\Chap01_net8\Hello_tty\obj\x64\Debug\net8.0\refint\Hello_tty.dll
+D:\061_AutoCad-Prog\ty_AutoCad\Chap01_net8\Hello_tty\obj\x64\Debug\net8.0\Hello_tty.pdb
+D:\061_AutoCad-Prog\ty_AutoCad\Chap01_net8\Hello_tty\obj\x64\Debug\net8.0\ref\Hello_tty.dll

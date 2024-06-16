@@ -1,0 +1,2 @@
+D:\061_AutoCad-Prog\ty_AutoCad\Chap01_ac\InitAndOpt\obj\x64\Debug\InitAndOpt.csproj.AssemblyReference.cache
+D:\061_AutoCad-Prog\ty_AutoCad\Chap01_ac\InitAndOpt\obj\x64\Debug\InitAndOpt.csproj.CoreCompileInputs.cache
