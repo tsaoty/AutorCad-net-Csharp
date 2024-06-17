@@ -1,2 +1,0 @@
-D:\061_AutoCad-Prog\ty_AutoCad\Chap01_ac\AcadNetAddinCS1\obj\x64\Debug\AcadNetAddinCS1.csproj.AssemblyReference.cache
-D:\061_AutoCad-Prog\ty_AutoCad\Chap01_ac\AcadNetAddinCS1\obj\x64\Debug\AcadNetAddinCS1.csproj.CoreCompileInputs.cache
