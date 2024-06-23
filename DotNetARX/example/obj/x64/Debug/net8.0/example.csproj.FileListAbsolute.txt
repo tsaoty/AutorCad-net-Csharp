@@ -1,0 +1,13 @@
+D:\061_AutoCad-Prog\ty_AutoCad\DotNetARX\example\bin\x64\Debug\net8.0\example.deps.json
+D:\061_AutoCad-Prog\ty_AutoCad\DotNetARX\example\bin\x64\Debug\net8.0\example.dll
+D:\061_AutoCad-Prog\ty_AutoCad\DotNetARX\example\bin\x64\Debug\net8.0\example.pdb
+D:\061_AutoCad-Prog\ty_AutoCad\DotNetARX\example\obj\x64\Debug\net8.0\example.csproj.AssemblyReference.cache
+D:\061_AutoCad-Prog\ty_AutoCad\DotNetARX\example\obj\x64\Debug\net8.0\example.GeneratedMSBuildEditorConfig.editorconfig
+D:\061_AutoCad-Prog\ty_AutoCad\DotNetARX\example\obj\x64\Debug\net8.0\example.AssemblyInfoInputs.cache
+D:\061_AutoCad-Prog\ty_AutoCad\DotNetARX\example\obj\x64\Debug\net8.0\example.AssemblyInfo.cs
+D:\061_AutoCad-Prog\ty_AutoCad\DotNetARX\example\obj\x64\Debug\net8.0\example.csproj.CoreCompileInputs.cache
+D:\061_AutoCad-Prog\ty_AutoCad\DotNetARX\example\obj\x64\Debug\net8.0\example.sourcelink.json
+D:\061_AutoCad-Prog\ty_AutoCad\DotNetARX\example\obj\x64\Debug\net8.0\example.dll
+D:\061_AutoCad-Prog\ty_AutoCad\DotNetARX\example\obj\x64\Debug\net8.0\refint\example.dll
+D:\061_AutoCad-Prog\ty_AutoCad\DotNetARX\example\obj\x64\Debug\net8.0\example.pdb
+D:\061_AutoCad-Prog\ty_AutoCad\DotNetARX\example\obj\x64\Debug\net8.0\ref\example.dll

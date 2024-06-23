@@ -1,0 +1,6 @@
+D:\061_AutoCad-Prog\ty_AutoCad\DotNetARX\example\obj\Debug\net8.0\example.csproj.AssemblyReference.cache
+D:\061_AutoCad-Prog\ty_AutoCad\DotNetARX\example\obj\Debug\net8.0\example.GeneratedMSBuildEditorConfig.editorconfig
+D:\061_AutoCad-Prog\ty_AutoCad\DotNetARX\example\obj\Debug\net8.0\example.AssemblyInfoInputs.cache
+D:\061_AutoCad-Prog\ty_AutoCad\DotNetARX\example\obj\Debug\net8.0\example.AssemblyInfo.cs
+D:\061_AutoCad-Prog\ty_AutoCad\DotNetARX\example\obj\Debug\net8.0\example.csproj.CoreCompileInputs.cache
+D:\061_AutoCad-Prog\ty_AutoCad\DotNetARX\example\obj\Debug\net8.0\example.sourcelink.json
