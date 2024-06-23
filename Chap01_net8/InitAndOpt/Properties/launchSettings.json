@@ -1,8 +1,7 @@
 {
   "profiles": {
     "InitAndOpt": {
-      "commandName": "Project",
-      "workingDirectory": "C:\\Program Files\\Autodesk\\AutoCAD 2025\\acad.exe"
+      "commandName": "Project"
     }
   }
 }

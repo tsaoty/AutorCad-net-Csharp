@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hello_tty")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bec367ec276edab26e7d8a00f97bad5d06a8e9d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52744835865ed9312b79c7a6ef5ecfcd6b5ed697")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hello_tty")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hello_tty")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
