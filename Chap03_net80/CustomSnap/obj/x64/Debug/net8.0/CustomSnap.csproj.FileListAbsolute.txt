@@ -1,0 +1,15 @@
+D:\061_AutoCad-Prog\01.ac.prog\Chap03_net80\CustomSnap\bin\x64\Debug\net8.0\CustomSnap.deps.json
+D:\061_AutoCad-Prog\01.ac.prog\Chap03_net80\CustomSnap\bin\x64\Debug\net8.0\CustomSnap.dll
+D:\061_AutoCad-Prog\01.ac.prog\Chap03_net80\CustomSnap\bin\x64\Debug\net8.0\CustomSnap.pdb
+D:\061_AutoCad-Prog\01.ac.prog\Chap03_net80\CustomSnap\bin\x64\Debug\net8.0\acDotNetARX.dll
+D:\061_AutoCad-Prog\01.ac.prog\Chap03_net80\CustomSnap\bin\x64\Debug\net8.0\acDotNetARX.pdb
+D:\061_AutoCad-Prog\01.ac.prog\Chap03_net80\CustomSnap\obj\x64\Debug\net8.0\CustomSnap.csproj.AssemblyReference.cache
+D:\061_AutoCad-Prog\01.ac.prog\Chap03_net80\CustomSnap\obj\x64\Debug\net8.0\CustomSnap.GeneratedMSBuildEditorConfig.editorconfig
+D:\061_AutoCad-Prog\01.ac.prog\Chap03_net80\CustomSnap\obj\x64\Debug\net8.0\CustomSnap.AssemblyInfoInputs.cache
+D:\061_AutoCad-Prog\01.ac.prog\Chap03_net80\CustomSnap\obj\x64\Debug\net8.0\CustomSnap.AssemblyInfo.cs
+D:\061_AutoCad-Prog\01.ac.prog\Chap03_net80\CustomSnap\obj\x64\Debug\net8.0\CustomSnap.csproj.CoreCompileInputs.cache
+D:\061_AutoCad-Prog\01.ac.prog\Chap03_net80\CustomSnap\obj\x64\Debug\net8.0\CustomSnap.csproj.Up2Date
+D:\061_AutoCad-Prog\01.ac.prog\Chap03_net80\CustomSnap\obj\x64\Debug\net8.0\CustomSnap.dll
+D:\061_AutoCad-Prog\01.ac.prog\Chap03_net80\CustomSnap\obj\x64\Debug\net8.0\refint\CustomSnap.dll
+D:\061_AutoCad-Prog\01.ac.prog\Chap03_net80\CustomSnap\obj\x64\Debug\net8.0\CustomSnap.pdb
+D:\061_AutoCad-Prog\01.ac.prog\Chap03_net80\CustomSnap\obj\x64\Debug\net8.0\ref\CustomSnap.dll
