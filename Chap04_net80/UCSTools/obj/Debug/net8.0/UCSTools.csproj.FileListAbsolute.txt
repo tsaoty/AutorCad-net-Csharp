@@ -1,0 +1,16 @@
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\UCSTools\bin\Debug\net8.0\UCSTools.deps.json
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\UCSTools\bin\Debug\net8.0\UCSTools.dll
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\UCSTools\bin\Debug\net8.0\UCSTools.pdb
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\UCSTools\bin\Debug\net8.0\acDotNetARX.dll
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\UCSTools\bin\Debug\net8.0\acDotNetARX.pdb
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\UCSTools\obj\Debug\net8.0\UCSTools.csproj.AssemblyReference.cache
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\UCSTools\obj\Debug\net8.0\UCSTools.GeneratedMSBuildEditorConfig.editorconfig
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\UCSTools\obj\Debug\net8.0\UCSTools.AssemblyInfoInputs.cache
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\UCSTools\obj\Debug\net8.0\UCSTools.AssemblyInfo.cs
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\UCSTools\obj\Debug\net8.0\UCSTools.csproj.CoreCompileInputs.cache
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\UCSTools\obj\Debug\net8.0\UCSTools.sourcelink.json
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\UCSTools\obj\Debug\net8.0\UCSTools.csproj.Up2Date
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\UCSTools\obj\Debug\net8.0\UCSTools.dll
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\UCSTools\obj\Debug\net8.0\refint\UCSTools.dll
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\UCSTools\obj\Debug\net8.0\UCSTools.pdb
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\UCSTools\obj\Debug\net8.0\ref\UCSTools.dll

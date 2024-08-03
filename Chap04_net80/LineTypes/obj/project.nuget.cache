@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GC/sLnNQTdXahtWpob2vz38y4UKU7h8g1hP3A/2PFfimme0fOVyViPE18g8jvv6JSqGdcWKypsBvgnNVVfJXSw==",
+  "success": true,
+  "projectFilePath": "D:\\061_AutoCad-Prog\\01.ac.prog\\Chap04_net80\\LineTypes\\LineTypes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tsaoty\\.nuget\\packages\\autocad.net\\25.0.1\\autocad.net.25.0.1.nupkg.sha512",
+    "C:\\Users\\tsaoty\\.nuget\\packages\\autocad.net.core\\25.0.0\\autocad.net.core.25.0.0.nupkg.sha512",
+    "C:\\Users\\tsaoty\\.nuget\\packages\\autocad.net.model\\25.0.0\\autocad.net.model.25.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

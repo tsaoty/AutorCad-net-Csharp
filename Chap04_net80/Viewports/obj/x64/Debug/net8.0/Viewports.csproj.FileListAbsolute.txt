@@ -1,0 +1,16 @@
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\Viewports\bin\x64\Debug\net8.0\Viewports.dll
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\Viewports\bin\x64\Debug\net8.0\Viewports.deps.json
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\Viewports\bin\x64\Debug\net8.0\Viewports.pdb
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\Viewports\bin\x64\Debug\net8.0\acDotNetARX.dll
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\Viewports\bin\x64\Debug\net8.0\acDotNetARX.pdb
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\Viewports\obj\x64\Debug\net8.0\Viewports.csproj.AssemblyReference.cache
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\Viewports\obj\x64\Debug\net8.0\Viewports.GeneratedMSBuildEditorConfig.editorconfig
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\Viewports\obj\x64\Debug\net8.0\Viewports.AssemblyInfoInputs.cache
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\Viewports\obj\x64\Debug\net8.0\Viewports.AssemblyInfo.cs
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\Viewports\obj\x64\Debug\net8.0\Viewports.csproj.CoreCompileInputs.cache
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\Viewports\obj\x64\Debug\net8.0\Viewports.sourcelink.json
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\Viewports\obj\x64\Debug\net8.0\Viewports.csproj.Up2Date
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\Viewports\obj\x64\Debug\net8.0\Viewports.dll
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\Viewports\obj\x64\Debug\net8.0\refint\Viewports.dll
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\Viewports\obj\x64\Debug\net8.0\Viewports.pdb
+D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\Viewports\obj\x64\Debug\net8.0\ref\Viewports.dll

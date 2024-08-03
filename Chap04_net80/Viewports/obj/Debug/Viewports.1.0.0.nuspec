@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Viewports</id>
+    <version>1.0.0</version>
+    <authors>Viewports</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="e2ec1a55746705e8ea67e89ce75021f232a3c04a" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\061_AutoCad-Prog\01.ac.prog\Chap04_net80\Viewports\bin\x64\Debug\net8.0\Viewports.dll" target="lib\net8.0\Viewports.dll" />
+  </files>
+</package>
